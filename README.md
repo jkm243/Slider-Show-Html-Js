@@ -1,7 +1,7 @@
 # Slider-Show-Html-Js
 A slider page made with HTML and js
 
-## Documentation & Resoources
+## Documentation & Resources
 
 * [Javascript](https://developer.mozilla.org/fr/docs/Web/JavaScript)
 
